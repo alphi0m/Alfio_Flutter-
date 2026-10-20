@@ -41,5 +41,7 @@ Il progetto è stato configurato per la compilazione e l'installazione nativa su
      ```bash
      flutter run -d <DEVICE_ID> --release
      ```
+<img width="603" height="1311" alt="IMG_9806" src="https://github.com/user-attachments/assets/015e4e90-4df5-4d5d-8e86-63b519c7d8fb" />
+<img width="603" height="1311" alt="IMG_9807" src="https://github.com/user-attachments/assets/573a066f-c51c-4585-aac0-369fdec37795" />
 
 ---
